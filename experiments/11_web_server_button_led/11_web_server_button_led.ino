@@ -1,7 +1,7 @@
 #include <WiFi.h>
 #include <WebServer.h>
 
-const char* WIFI_SSID = "simonisdev";
+const char* WIFI_SSID = "simonisdev 🐶";
 const char* WIFI_PASSWORD = "khoanvn2";
 
 const int LED_PIN = 2;
