@@ -1,6 +1,6 @@
 # ESP32 Audio TinyML Lab
 
-![](./assets/thumb/thumb_lab.png)
+![](./assets/thumb/thumb_lab.jpg)
 
 This repository is a beginner-friendly learning lab for the **ESP32 DevKit V1**. The first goal is to understand the board, the Arduino-style development workflow, and the embedded programming concepts that matter on small devices. The long-term goal is to prepare a clean path for running **TinyML** models on the ESP32, especially models that use audio or sensor input.
 
